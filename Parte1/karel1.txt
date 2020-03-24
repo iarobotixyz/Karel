@@ -1,0 +1,37 @@
+iniciar-programa
+    inicia-ejecucion
+        { TODO poner codigo aquí }
+        avanza;
+        avanza;
+        avanza;
+        gira-izquierda;
+        gira-izquierda;
+        gira-izquierda;
+        avanza;
+        gira-izquierda;
+        avanza;
+        gira-izquierda;
+        avanza;
+        coge-zumbador;
+        coge-zumbador;
+        coge-zumbador;
+        gira-izquierda;
+        gira-izquierda;
+        avanza;
+        gira-izquierda;
+        gira-izquierda;
+        gira-izquierda;
+        avanza;
+        gira-izquierda;
+        gira-izquierda;
+        gira-izquierda;
+        avanza;
+        gira-izquierda;
+        avanza;
+        avanza;
+        avanza;
+        gira-izquierda;
+        gira-izquierda;
+        apagate;
+    termina-ejecucion
+finalizar-programa
