@@ -1,0 +1,11 @@
+iniciar-programa
+    inicia-ejecucion
+      repetir 100 veces inicio
+            si frente-libre entonces incio
+                        avanza;
+            fin;
+
+      fin;
+     apagate;
+    termina-ejecucion
+finalizar-programa
